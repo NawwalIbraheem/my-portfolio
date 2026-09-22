@@ -1,6 +1,6 @@
 [build]
   command = "pnpm --filter @workspace/nawal-portfolio run build"
-  publish = "artifacts/nawal-portfolio/dist"
+  publish = "artifacts/nawal-portfolio/dist/public"
 
 [build.environment]
   NODE_VERSION = "24"
