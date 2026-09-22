@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Nawal Ibrahim Portfolio"
+description = "A polished personal developer portfolio for Nawal Ibrahim, showcasing mobile, web, backend, and practical software development work for professional opportunities."
+version = "1.0.0"
+id = "artifacts/nawal-portfolio"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 25355
+
+[services.development]
+run = "pnpm --filter @workspace/nawal-portfolio run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/nawal-portfolio", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/nawal-portfolio/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "25355"
+BASE_PATH = "/"

@@ -1,0 +1,601 @@
+Create a modern, professional, responsive personal developer portfolio website for me.
+
+My name is Nawal Ibrahim.
+
+My GitHub profile is:
+https://github.com/NawwalIbraheem
+
+I am a junior software developer interested in mobile development, web development, backend development, AI/ML, and building practical software solutions.
+
+The portfolio should be suitable for:
+- Software developer jobs
+- Graduate trainee applications
+- Internships
+- Professional networking
+- Freelance opportunities
+
+TECH STACK
+
+Include these technologies in my skills section:
+
+Mobile Development
+- Flutter
+- Dart
+
+Frontend Development
+- React
+- JavaScript
+- HTML
+- CSS
+
+Backend Development
+- Python
+- Django
+- REST APIs
+
+Tools
+- Git
+- GitHub
+- VS Code
+
+Also make it easy for me to add more technologies later.
+
+DESIGN STYLE
+
+I want the website to look clean, premium, modern, and professional.
+
+Do NOT make it look like a generic AI-generated portfolio.
+
+Use:
+- Minimal modern design
+- Large clean typography
+- Plenty of whitespace
+- Clean section spacing
+- Rounded cards
+- Very subtle shadows
+- Smooth animations
+- Smooth scrolling
+- Subtle hover effects
+- Professional icons
+- Responsive design for desktop, tablet, and mobile
+- Dark mode and light mode
+- A tasteful accent colour
+- Good contrast
+- Clean project cards
+- Consistent spacing
+
+Avoid:
+- Excessive gradients
+- Neon hacker styling
+- Matrix backgrounds
+- Fake terminal animations
+- Excessive glassmorphism
+- Huge cards
+- Too many colours
+- Skill percentages
+- Generic stock photos
+- Too much text
+- Overly corporate wording
+- Excessive animations
+
+The website should feel like the portfolio of a serious junior software developer applying for professional software engineering and graduate trainee opportunities.
+
+NAVIGATION
+
+Create a sticky navigation bar.
+
+Left side:
+Nawal Ibrahim
+
+Navigation links:
+- Home
+- About
+- Skills
+- Projects
+- Education
+- Experience
+- Contact
+
+Right side:
+- Dark/light mode toggle
+- Download CV button
+
+The navbar should become a clean mobile menu on smaller screens.
+
+HERO SECTION
+
+Create a strong but simple hero section.
+
+Main heading:
+
+Hi, I'm Nawal Ibrahim
+
+Subtitle:
+
+Software Developer | Mobile & Full-Stack Development
+
+Short introduction:
+
+I build practical mobile and web applications with a focus on creating simple, useful and user-friendly digital solutions.
+
+Add buttons:
+- View My Work
+- GitHub
+- Download CV
+
+GitHub button should link to:
+https://github.com/NawwalIbraheem
+
+The "View My Work" button should scroll to the Projects section.
+
+Include a subtle developer-themed visual or abstract illustration on the right side.
+
+Do NOT use a cheesy stock photo.
+
+The hero should look professional and not be excessively tall.
+
+ABOUT SECTION
+
+Create a short professional "About Me" section.
+
+Use wording similar to:
+
+I am a software developer passionate about building practical digital solutions. I enjoy working across mobile, web and backend development and continuously improving my skills through real-world projects.
+
+I am particularly interested in creating applications that solve everyday problems and provide simple, intuitive experiences for users.
+
+I enjoy learning new technologies and turning ideas into working software.
+
+Keep the wording natural, concise and professional.
+
+SKILLS SECTION
+
+Organize my skills into categories.
+
+Mobile Development
+- Flutter
+- Dart
+
+Frontend Development
+- React
+- JavaScript
+- HTML
+- CSS
+
+Backend Development
+- Python
+- Django
+- REST APIs
+
+Tools
+- Git
+- GitHub
+- VS Code
+
+Display them elegantly using small icons, badges or cards.
+
+Do not use fake percentages such as:
+Python 90%
+Flutter 85%
+
+PROJECTS SECTION
+
+This should be one of the most visually important sections of the portfolio.
+
+Create professional project cards in a responsive grid.
+
+Each project card should support:
+- Project image / screenshot
+- Project title
+- Short description
+- Technologies used
+- GitHub link
+- Live demo link
+- Optional "Featured Project" label
+
+Make all project information easy for me to edit later from one central data structure or file.
+
+Do not feature forked repositories as major projects.
+
+Include these projects:
+
+PROJECT 1
+
+Title:
+Mfumo wa Bei
+
+GitHub:
+https://github.com/NawwalIbraheem/mfumo_wa_bei
+
+Technologies:
+- Flutter
+- Dart
+- Django
+- REST API
+
+Description:
+
+A software solution focused on making pricing-related information easier to manage, access and interact with digitally.
+
+Buttons:
+- View Project
+- GitHub
+
+
+PROJECT 2
+
+Title:
+Halal Link
+
+GitHub:
+https://github.com/NawwalIbraheem/halal_link
+
+Technologies:
+- Flutter
+- Dart
+
+Description:
+
+A Flutter-based mobile application project developed to provide a simple and practical digital solution.
+
+Keep this description easy to edit later when I provide the final details.
+
+Buttons:
+- View Project
+- GitHub
+
+
+PROJECT 3
+
+Title:
+USSD Crops
+
+GitHub:
+https://github.com/NawwalIbraheem/ussd_crops
+
+Technologies:
+- Python
+
+Description:
+
+A software project focused on accessing and managing agricultural or crop-related information using USSD-related functionality.
+
+Buttons:
+- View Project
+- GitHub
+
+
+PROJECT 4
+
+Title:
+Digital Doc
+
+Description:
+
+A digital document management solution designed to help users create, organize, access and manage documents digitally.
+
+For now, make the following fields easy to edit later:
+- GitHub URL
+- Live demo URL
+- Technologies
+- Screenshot
+- Full description
+
+Use a clean document-management themed placeholder image until I provide a real project screenshot.
+
+Buttons:
+- View Project
+- GitHub
+
+Do not invent advanced functionality that I have not provided.
+
+
+PROJECT 5
+
+Title:
+QR Document Generator
+
+Description:
+
+A document utility application designed to generate QR codes associated with documents or document-related information, making digital information easier to access and share.
+
+For now, make these fields easy to edit later:
+- GitHub URL
+- Live demo URL
+- Technologies
+- Screenshot
+- Full description
+
+Use a clean QR-code/document themed placeholder image until I provide the real application screenshot.
+
+Buttons:
+- View Project
+- GitHub
+
+Do not invent advanced functionality that I have not provided.
+
+PROJECT DISPLAY DESIGN
+
+Show the projects in a balanced responsive grid.
+
+Desktop:
+- 2 or 3 cards per row depending on available width
+
+Tablet:
+- 2 cards per row
+
+Mobile:
+- 1 card per row
+
+Project cards should have:
+- Consistent image height
+- Clean spacing
+- Subtle hover lift
+- Technology badges
+- Short descriptions
+- Clear action buttons
+- Consistent visual style
+- Proper responsive behavior
+
+Do not make every card extremely tall.
+
+Add a button at the bottom of the Projects section:
+
+View All Projects on GitHub
+
+Link it to:
+https://github.com/NawwalIbraheem
+
+PROJECT DATA STRUCTURE
+
+Store project information in a reusable array/object instead of hardcoding every card individually.
+
+Each project should have editable fields similar to:
+
+title
+description
+image
+technologies
+githubUrl
+liveUrl
+featured
+
+This should make it easy for me to add more projects later.
+
+EDUCATION SECTION
+
+Create a clean education section.
+
+Use a modern timeline or simple card design.
+
+For now, use editable placeholders:
+
+Degree / Programme
+University / Institution
+Year
+Description
+
+Do not invent my education details.
+
+Make this section easy to edit later when I provide my CV.
+
+EXPERIENCE SECTION
+
+Create a professional Experience section.
+
+Use an editable timeline or card layout.
+
+For now, provide editable placeholders for:
+
+- Job title
+- Company
+- Duration
+- Responsibilities
+- Technologies / tools used
+
+Do not invent work experience.
+
+Make it easy for me to add multiple experiences later.
+
+CONTACT SECTION
+
+Create a professional contact section.
+
+Heading:
+
+Let's Work Together
+
+Add short text explaining that I am open to:
+
+- Software development opportunities
+- Graduate trainee opportunities
+- Internships
+- Collaborations
+- Freelance projects
+
+Include contact links for:
+
+Email
+LinkedIn
+GitHub
+
+GitHub:
+https://github.com/NawwalIbraheem
+
+Leave Email and LinkedIn as clearly editable placeholders.
+
+CONTACT FORM
+
+Add a simple contact form with:
+
+- Name
+- Email
+- Message
+- Send Message
+
+If the site does not have a backend yet, do not pretend the contact form is fully functional.
+
+Instead, either:
+- use a mailto fallback
+or
+- clearly structure the form so a service such as EmailJS, Formspree or a backend API can be added later.
+
+FOOTER
+
+Create a simple clean footer.
+
+Content:
+
+© Nawal Ibrahim
+
+Built with React
+
+Add social icons for:
+- GitHub
+- LinkedIn
+
+GitHub:
+https://github.com/NawwalIbraheem
+
+CV
+
+Include a Download CV button in both:
+- Navbar
+- Hero section
+
+For now use a placeholder file path such as:
+
+/Nawal-Ibrahim-CV.pdf
+
+Make it easy for me to replace the file later.
+
+DARK MODE
+
+Implement a proper light and dark mode.
+
+Requirements:
+- Toggle in navbar
+- Save user preference
+- Good contrast in both modes
+- No unreadable text
+- No harsh pure-white or pure-black areas unless appropriate
+- Project cards and sections should look professional in both modes
+
+TECHNICAL REQUIREMENTS
+
+Build the website using:
+
+- React
+- TypeScript
+- Tailwind CSS
+- Lucide React icons
+
+Use reusable components.
+
+Suggested structure:
+
+src/
+  components/
+    Navbar
+    Hero
+    About
+    Skills
+    Projects
+    ProjectCard
+    Education
+    Experience
+    Contact
+    Footer
+
+  data/
+    projects
+    skills
+    experience
+    education
+
+  assets/
+
+Keep project information separate from UI components where possible.
+
+QUALITY REQUIREMENTS
+
+Ensure:
+- Excellent mobile responsiveness
+- Good accessibility
+- Good SEO basics
+- Fast loading
+- Proper spacing
+- Smooth animations
+- No horizontal overflow
+- Clean dark mode
+- Proper semantic HTML
+- Accessible buttons and links
+- Good keyboard navigation
+- No console errors
+- No broken links
+- Clean component structure
+- No unnecessary dependencies
+
+SEO
+
+Set the page title to something like:
+
+Nawal Ibrahim | Software Developer
+
+Add a meta description similar to:
+
+Portfolio of Nawal Ibrahim, a software developer focused on mobile, web and backend development.
+
+PROJECT IMAGES
+
+Since I have not provided real screenshots for every project yet, use elegant neutral placeholders.
+
+Make it very easy for me to replace each placeholder with a real screenshot later.
+
+Do not use random generic stock photos.
+
+For project placeholders, use simple visuals related to:
+- Mobile apps
+- Documents
+- QR codes
+- Agriculture
+- Software systems
+
+ANIMATIONS
+
+Use animations very lightly.
+
+Allowed:
+- Fade-in on scroll
+- Slight card movement on hover
+- Smooth button transitions
+- Smooth section transitions
+
+Do not add:
+- Excessive floating objects
+- Constant animations
+- Distracting background effects
+- Large animated gradients
+
+FINAL RESULT
+
+The final website should look polished enough that I can send its link together with my CV when applying for:
+
+- Graduate trainee programs
+- Software developer jobs
+- Internships
+- Junior developer roles
+
+It should feel professional, modern and personal rather than like an AI-generated template.
+
+Before finishing:
+
+1. Run the application.
+2. Check both desktop and mobile layouts.
+3. Check dark and light mode.
+4. Fix any console errors.
+5. Fix any TypeScript errors.
+6. Make sure npm run build succeeds.
+7. Make sure all sections and navigation links work.
+8. Make sure GitHub links open in a new tab.
+9. Ensure the portfolio is ready to deploy.
